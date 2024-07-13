@@ -30,3 +30,5 @@ python manage.py migrate blog
 # See new model created
 python manage.py runserver
 python manage.py createsuperuser
+
+#git add .  and commit
