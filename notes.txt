@@ -32,3 +32,7 @@ python manage.py runserver
 python manage.py createsuperuser
 
 #git add .  and commit
+git remote add origin https://github.com/faizpuad/my-first-blog.git
+git push -u origin HEAD
+
+#testing text
